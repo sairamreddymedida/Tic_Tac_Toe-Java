@@ -1,2 +1,22 @@
-# Tic_Tac_Toe-Java
-A simple Java implementation of the classic Tic Tac Toe game played on a 3x3 grid. This project allows two players to take turns entering their moves, checks for wins, draws, and ensures valid input. It demonstrates use of arrays, loops, condition checks, and console interaction in Java for beginners learning programming.
+# Tic Tac Toe (Java)
+
+A simple command-line Java implementation of the classic Tic Tac Toe game for two players.
+
+## 🎯 Features
+- 3x3 Grid Tic Tac Toe
+- Two-player turn-based input
+- Input validation
+- Win/draw detection
+- Clear console-based interface
+
+## 🛠️ Technologies Used
+- Java (Core)
+- Arrays, loops, conditionals
+
+## 📸 Demo
+
+```bash
+Player X, enter your move (row and column): 1 1
+Player O, enter your move (row and column): 0 2
+...
+Player X wins!
