@@ -1,6 +1,7 @@
 # Tic Tac Toe (Java)
 
 A simple command-line Java implementation of the classic Tic Tac Toe game for two players.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
  Features
 - 3x3 Grid Tic Tac Toe
